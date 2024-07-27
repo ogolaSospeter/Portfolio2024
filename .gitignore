@@ -1,7 +1,0 @@
-.env
-config.ini
-.venv
-.vscode
-.github
-.dist
-__pycache__

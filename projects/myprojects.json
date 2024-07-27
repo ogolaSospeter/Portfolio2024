@@ -1,0 +1,86 @@
+[{
+        "name": "JKUSA Election Voting System",
+        "description": "As an academic project during the 3.1 Semester, in a team of 5, we developed an election system that would help aleviate the problems around the elections.",
+        "image1": "https://img.freepik.com/free-vector/internet-electronic-voting_74855-4428.jpg?w=740&t=st=1707500917~exp=1707501517~hmac=1dc9ae930fd1d183fcaafba76a6629ebfa86aa1aae879e5f09c36ec5ba4f65b2",
+        "image": "adminReview.jpg",
+        "category": "BasicWebDevelopment",
+        "link": "https://github.com/ogolaSospeter/CampusVoterSystem",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "In-Person Service Finder",
+        "description": "Developed a platform that would allow users to find serice providers within their locality, allowing users to rate the services they receive from the service providers, thus aleviating the hustle of moving around seeking for a service provider. ",
+        "image1": "https://github.com/gims-inc/IPSP/blob/master/web_dynamic/static/images/on_phone2.jpeg?raw=true",
+        "category": "BasicWebDevelopment",
+        "image": "adminReview.jpg",
+        "link": "https://github.com/gims-inc/IPSP",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Customizable Recipe Website",
+        "description": "This is a web application that allows users to find recipes for their favorite meals. The application also allows users to add their own recipes.",
+        "image": "adminReview.jpg",
+        "category": "BasicWebDevelopment",
+        "image1": "main.jpg",
+        "link": "https://github.com/ogolaSospeter/WebstackPortfolioProject",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Skyliners Boutique Parlor",
+        "description": "After weeks of self-paced learning, I developed this android project that is an e-commerce site specifically for selling clothewear and the footwear.",
+        "image": "bout.jpg",
+        "image1": "https://github.com/ogolaSospeter/SkylineBoutiqueApp/raw/master/Skyline%20Boutique/images/home.png",
+        "category": "AndroidApp",
+        "image2": "https://github.com/ogolaSospeter/SkylineBoutiqueApp/raw/master/Skyline%20Boutique/images/logsuccess.png",
+        "link": "https://github.com/ogolaSospeter/SkylineBoutiqueApp/tree/master/Skyline%20Boutique",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "MoveConnect Home & Office Movers",
+        "description": "A Team Project of 4. We are working on developing a platform that would allow users to easily relocate , with favourable charges for the services offered.",
+        "image": "move.jpg",
+        "category": "BasicWebDevelopment",
+        "image1": "adminReview.jpg",
+        "link": "https://github.com/ogolaSospeter/MoveConnect",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "NAO Robot Teaching Assistant",
+        "description": "Currently working on a project that will see the development of a robot that will be used to assist in teaching of the students in the university.",
+        "image": "nao.jpg",
+        "category": "RoboticsandAI",
+        "image1": "nao.jpg",
+        "link": "https://github.com/ogolaSospeter/NAORobotTeachingAssistant",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "My Daily Diary App",
+        "description": "A personal project that I am working on, that will see the development of an android application that will allow users to keep track of their daily activities.",
+        "image": "home.png",
+        "category": "AndroidApp",
+        "image1": "home.png",
+        "link": "https://github.com/ogolaSospeter/MyDailyDiary",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    }
+]
